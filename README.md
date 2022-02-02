@@ -1,2 +1,5 @@
-# jdm-world
-SPA Web Project made with Vanilla Javascript
+# JDM World - SPA application with vanilla javascript
+
+Study project
+
+https://soundcloud.com/nvnn/vvvvvendetta
